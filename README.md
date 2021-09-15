@@ -1,7 +1,7 @@
 # Make Your First Contribution 😎
 Hey this is Akash and I invite you to make your First commit ever in this repo by sharing your social handles so that like minded can get along with you.
 
-After Following the following steps you can find your name card on this [site.](https://theskyspace.github.io/HeyItsMe.github.io/)
+After Following the following steps you can find your name card on this [site.](https://theskyspace.github.io/HeyItsMe/)
 
 # Here's How you can do it
 This article is take from [FirstContributions](https://github.com/firstcontributions/first-contributions)<br>
