@@ -140,7 +140,8 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
 
 <table>
-<a href="https://github.com/Theskyspace/HeyItsMe/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Theskyspace/HeyItsMe" />
+<a href="https://github.com/Theskyspace/Heyitsme/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Theskyspace/Heyitsme" />
 </a>
+
 </table>
